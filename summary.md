@@ -12,3 +12,5 @@ SwiftRide is a ride-sharing platform designed to provide fast and affordable tra
 - Real-time ride tracking
 - Online payments
 - Driver ratings
+- Customer Satisfaction
+- Less amount
