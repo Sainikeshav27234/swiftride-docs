@@ -36,5 +36,12 @@
 - Resolved **merge conflicts collaboratively**
 
 ---
+## 📅 Last Updated
+This document was updated after review feedback to improve clarity of roles and environments.
+
+## 🛠 Tools Used
+- Git for version control  
+- GitHub for collaboration  
+- WSL (Linux) and Windows Git Bash environments
 
 This project demonstrates a real-world collaborative Git workflow where both accounts contributed using separate environments and followed proper version control practices.
